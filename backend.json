@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Danilo",
+      "phone": "12 34658095"
+    },
+    {
+      "id": 2,
+      "name": "Guilherme",
+      "phone": "12 90553922"
+    }
+  ]
+}
